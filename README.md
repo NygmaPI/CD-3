@@ -27,3 +27,9 @@ Moreover, it leads to certain authors being overrepresented -- most notable Will
 ## Goal
 
 By looking at the frequency of words used -- specifically descriptive words -- I would like to examine if there is a trend in how Irish Anglophone authors, and the Irish people in general, present themselves in literature.
+
+Firstly, I would like to look which words in particular are used. 
+
+Secondly, I would like to see if these words change between the 18th and 19th century.
+
+Moreover, if the corpus is expanded, I would like to look at the difference in descriptive words used by male and female authors, as well as the difference between words used in fictional/satirical works as opposed to biographical texts.
